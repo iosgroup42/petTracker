@@ -18,8 +18,51 @@ Allows pet owners to keep track of pet maintenaince. Tracks medications given, w
 ---
 
 ### User Stories
-// TODO: Enumerate User Stories
-1. User can...
+
+## 1. User Stories 
+
+**Must-have Stories**
+
+  * User can create a new account
+* User can create a new account
+* User can login
+ * User can add dates of pet care- last bath meal shot etc
+ * Add pet appoinments
+ * Add care reminder "feed scooter now"
+
+**Nice-to-have Stories**
+
+ * User can meet other pet lovers
+ * User can set pet play dates
+ * User can see other pets nearby
+ * User can purchase new pets
+ * Add their pet "family"
+ * Account just for pet pics
+ 
+
+## 2. Screen Archetypes
+
+ * Login Screen
+   * User can login
+
+ * Registration Screen
+   * User can create a new account
+ * Tracker Screen
+   * User can see appointments important dates and reminders
+
+## 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+ * Tracker Feed (Home Page)
+
+**Flow Navigation** (Screen to Screen)
+
+ * Login Screen 
+   * Home
+ * Tracker Page
+   * Create new dates
+   * Settings
 
 ---
 
